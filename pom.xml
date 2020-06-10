@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>edu.bjtu.javaee</groupId>
+  <artifactId>OauthRestService</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Archetype - OauthRestService</name>	
+  <packaging>pom</packaging>	
+  <description>Demo project for Spring Boot OAuth2 Authorization and Resource Server</description>  
+  <url>http://maven.apache.org</url>
+  <modules>
+    <module>Oauth2AutherizationServer</module>
+    <module>E_Learning</module>
+  </modules>
+</project>
